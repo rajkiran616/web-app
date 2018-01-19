@@ -1,2 +1,2 @@
 Architecture diagram
-![Screenshot](Capture.jpg)
+![Screenshot](Capture.JPG)
